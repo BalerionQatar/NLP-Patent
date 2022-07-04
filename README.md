@@ -24,42 +24,18 @@ Now run the following commands to download the libraries, make sure you're on De
 cd Desktop
 ```
 ``` bash
-arch -arm64 brew install tesseract
+pip install pdf2image \ pip install pathlib \ pip install flask_cors \
+pip install spacypdfreader \ pip install -U pip setuptools wheel \ 
+pip install -U spacy \ pip install pillow
+
+
+
+
 
 ```
-``` bash
-arch -arm64 brew install tesseract
 
-```
 
-``` bash
-pip3 install pytesseract
-```
 
-``` bash
-pip install pdf2image   
-```
-``` bash
-pip3 install pathlib
-```
-``` bash
-pip install flask_cors   
-```
-``` bash
-pip install spacypdfreader  
-```
-``` bash
-pip install -U pip setuptools wheel
-```
-``` bash
-pip install -U spacy
-```
-``` bash
-python -m spacy download en_core_web_sm
-```
-``` bash
-pip install pillow
-```
 ``` bash
 npm install axios
 ```
