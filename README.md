@@ -60,6 +60,6 @@ cd ~/Desktop/nlp-server/aptive-react
 npm start
 ```
 # The web application should be up and running!
-# Now just upload the two google patent pdfs you wish to compare
+# Now just upload the two google patent PDFs you wish to compare
 
 
