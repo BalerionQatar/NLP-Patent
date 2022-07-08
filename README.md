@@ -63,12 +63,11 @@ python3 server.py
 ```
 # The backend is now running! Now for the frontend: 
 ``` bash
-cd ~/Desktop/nlp-server/aptive-react 
+cd ~/Desktop/nlp-server/frontend-react 
 ```
 ``` bash
 npm start
 ```
 # The web application should be up and running!
 # Now just upload the two google patent PDFs you wish to compare
-
 
